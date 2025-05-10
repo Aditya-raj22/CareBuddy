@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries or support, please reach out to [your-email@example.com]
+For any queries or support, please reach out to a.raj@duke.edu
